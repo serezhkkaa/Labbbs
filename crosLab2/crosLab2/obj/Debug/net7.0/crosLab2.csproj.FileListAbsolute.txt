@@ -1,0 +1,14 @@
+C:\Users\cpecv\source\repos\crosLab2\crosLab2\bin\Debug\net7.0\crosLab2.exe
+C:\Users\cpecv\source\repos\crosLab2\crosLab2\bin\Debug\net7.0\crosLab2.deps.json
+C:\Users\cpecv\source\repos\crosLab2\crosLab2\bin\Debug\net7.0\crosLab2.runtimeconfig.json
+C:\Users\cpecv\source\repos\crosLab2\crosLab2\bin\Debug\net7.0\crosLab2.dll
+C:\Users\cpecv\source\repos\crosLab2\crosLab2\bin\Debug\net7.0\crosLab2.pdb
+C:\Users\cpecv\source\repos\crosLab2\crosLab2\obj\Debug\net7.0\crosLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cpecv\source\repos\crosLab2\crosLab2\obj\Debug\net7.0\crosLab2.AssemblyInfoInputs.cache
+C:\Users\cpecv\source\repos\crosLab2\crosLab2\obj\Debug\net7.0\crosLab2.AssemblyInfo.cs
+C:\Users\cpecv\source\repos\crosLab2\crosLab2\obj\Debug\net7.0\crosLab2.csproj.CoreCompileInputs.cache
+C:\Users\cpecv\source\repos\crosLab2\crosLab2\obj\Debug\net7.0\crosLab2.dll
+C:\Users\cpecv\source\repos\crosLab2\crosLab2\obj\Debug\net7.0\refint\crosLab2.dll
+C:\Users\cpecv\source\repos\crosLab2\crosLab2\obj\Debug\net7.0\crosLab2.pdb
+C:\Users\cpecv\source\repos\crosLab2\crosLab2\obj\Debug\net7.0\crosLab2.genruntimeconfig.cache
+C:\Users\cpecv\source\repos\crosLab2\crosLab2\obj\Debug\net7.0\ref\crosLab2.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrosLab3", "CrosLab3\CrosLab3.csproj", "{A6B9FEA9-D493-4459-9641-1EF69C70683B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6B9FEA9-D493-4459-9641-1EF69C70683B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B9FEA9-D493-4459-9641-1EF69C70683B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B9FEA9-D493-4459-9641-1EF69C70683B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6B9FEA9-D493-4459-9641-1EF69C70683B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {808B1D56-4085-45D0-B5FE-AA3E73828E4E}
+	EndGlobalSection
+EndGlobal

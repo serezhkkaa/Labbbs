@@ -1,0 +1,14 @@
+C:\Users\cpecv\source\repos\CrosLab3.1\CrosLab3.1\bin\Debug\net7.0\CrosLab3.1.exe
+C:\Users\cpecv\source\repos\CrosLab3.1\CrosLab3.1\bin\Debug\net7.0\CrosLab3.1.deps.json
+C:\Users\cpecv\source\repos\CrosLab3.1\CrosLab3.1\bin\Debug\net7.0\CrosLab3.1.runtimeconfig.json
+C:\Users\cpecv\source\repos\CrosLab3.1\CrosLab3.1\bin\Debug\net7.0\CrosLab3.1.dll
+C:\Users\cpecv\source\repos\CrosLab3.1\CrosLab3.1\bin\Debug\net7.0\CrosLab3.1.pdb
+C:\Users\cpecv\source\repos\CrosLab3.1\CrosLab3.1\obj\Debug\net7.0\CrosLab3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cpecv\source\repos\CrosLab3.1\CrosLab3.1\obj\Debug\net7.0\CrosLab3.1.AssemblyInfoInputs.cache
+C:\Users\cpecv\source\repos\CrosLab3.1\CrosLab3.1\obj\Debug\net7.0\CrosLab3.1.AssemblyInfo.cs
+C:\Users\cpecv\source\repos\CrosLab3.1\CrosLab3.1\obj\Debug\net7.0\CrosLab3.1.csproj.CoreCompileInputs.cache
+C:\Users\cpecv\source\repos\CrosLab3.1\CrosLab3.1\obj\Debug\net7.0\CrosLab3.1.dll
+C:\Users\cpecv\source\repos\CrosLab3.1\CrosLab3.1\obj\Debug\net7.0\refint\CrosLab3.1.dll
+C:\Users\cpecv\source\repos\CrosLab3.1\CrosLab3.1\obj\Debug\net7.0\CrosLab3.1.pdb
+C:\Users\cpecv\source\repos\CrosLab3.1\CrosLab3.1\obj\Debug\net7.0\CrosLab3.1.genruntimeconfig.cache
+C:\Users\cpecv\source\repos\CrosLab3.1\CrosLab3.1\obj\Debug\net7.0\ref\CrosLab3.1.dll

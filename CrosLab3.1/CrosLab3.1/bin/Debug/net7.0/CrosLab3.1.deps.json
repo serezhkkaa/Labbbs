@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CrosLab3.1/1.0.0": {
+        "runtime": {
+          "CrosLab3.1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CrosLab3.1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
